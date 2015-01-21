@@ -1,0 +1,2 @@
+git config --global http.proxy http://itgce\\s0087430:Topcow0115!@proxy:8080
+git config --global https.proxy https://itgce\\s0087430:Topcow0115!@proxy:8080
