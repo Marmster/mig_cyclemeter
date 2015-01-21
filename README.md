@@ -1,6 +1,9 @@
 # mig_cyclemeter
 Powershell script to migrate from SQLite3 Cyclemeter database to gpx format
 
+Requirements
+You will need SQLite3 module for PowerShell. Google it if you don't know how to download/install it.
+
 What for ?
 Since I moved from my iPhone to an Android system, I get some problems migrating my CycleMeter database to Strava, Runtastic or something like these.
 So, my goal was to convert that CycleMeter SQLite db to a standard gpx frame.
