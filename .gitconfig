@@ -1,0 +1,5 @@
+[http]
+    proxy = http://itgce\s0087430:Topcow0115!@proxy:8080
+
+[https]
+    proxy = http://itgce\s0087430:Topcow0115!@proxy:8080
